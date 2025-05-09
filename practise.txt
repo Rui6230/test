@@ -37,4 +37,4 @@ git config --global user.name "Rui"
 
 **cd -->進入資料夾
 
-** 
+** 可以直接再GITHUB上面做修改
