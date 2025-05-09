@@ -1,2 +1,9 @@
 2020/05/09
 GIT practise
+
+**download other people code
+1.Copy code SSH
+2.create new file
+3.open git
+4.git clone https://github.com/Rui6230/test.git
+

@@ -28,4 +28,9 @@ git config --global user.name "Rui"
 
 **git push -u origin main-->上傳文件
 
-**
+############important
+1.git status
+2.git add .
+3.git commit -m "mod file"  (檔名要注意)
+3.git push
+############
