@@ -1,1 +1,31 @@
-dont work
+**pwd-->路徑
+
+**ls-->顯示資料夾所有文件
+
+**git init -->創建倉庫
+
+**ls -a -->顯示所有文件(包含隱藏擋)
+
+**git status-->顯示狀態
+
+**git add test.txt-->存入暫存器
+
+**git add . -->所有檔案存入暫存器
+
+**commit 前須輸入以下指令，確認誰傳送資料
+git config --global user.email "mark900801@gmail.com"
+git config --global user.name "Rui"
+
+**git commit -m"add test.txt"-->上傳資料至倉庫
+
+**git config --globol --list-->看設定
+
+**git log -->歷史紀錄
+
+**git branch -M main-->切換branch
+
+**git remote add origin https://github.com/Rui6230/test.git-->push to here
+
+**git push -u origin main-->上傳文件
+
+**
